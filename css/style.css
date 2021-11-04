@@ -139,8 +139,7 @@ body {
 .main-link-hero:hover {
   background-color: rgba(222, 46, 84, 0.8);
   color: #fff;
-  /* border: 2px solid rgba(222, 46, 84, 0.8); */
-  border: transparent;
+  border-color: transparent;
 }
 .main-link-hero:active {
   opacity: 0.6;
